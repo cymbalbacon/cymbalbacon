@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cymbalbacon
 - 👀 I’m interested in drumming.
 - 🌱 I’m currently learning HTML.
-- 💞️ I’m looking to collaborate on content (journalism background).
+- 💞️ I’m looking to collaborate on recipies and seed sharing.
 - 📫 How to reach me neverpostponejoy@outlook.com
 
 <!---
